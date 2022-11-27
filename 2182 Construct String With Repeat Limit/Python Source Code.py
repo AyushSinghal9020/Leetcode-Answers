@@ -22,7 +22,7 @@ class Solution:
 
                     count = 0 
 
-                    while count <= 3:
+                    while count <= repeatLimit:
 
                         count = count + 1
 
