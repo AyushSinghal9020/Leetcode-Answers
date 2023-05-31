@@ -12,7 +12,6 @@ In one operation you can increase the time `current` by `1`, `5`, `15`, or `60` 
 Return the **minimum number of operations** needed to convert `current` to `correct`.
 ****
 ### Examples
-<img src = "https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg" width = 400>
 
 ```
 Input: current = "02:30", correct = "04:35"
