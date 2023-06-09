@@ -1,5 +1,5 @@
 # Leetcode-Answers
-|___|___|
+|||
 |---|---
 |$WHAT$|This repository contains answers to leetcode questions in python language 
 |$HOW$ $TO$ $USE$|To use this repository, simply clone it to your local machine. Then, open the folder in your favorite IDE and start solving problems!
