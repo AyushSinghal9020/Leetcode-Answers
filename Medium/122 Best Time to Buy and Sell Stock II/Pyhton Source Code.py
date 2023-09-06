@@ -1,41 +1,21 @@
 class Solution:
+    
     def maxProfit(self, prices: List[int]) -> int:
 
-        lu = list()
+        return_prices = []
 
-        while prices.index(max(prices)) == 0:
-            
-            prices.pop(0)
+        for val in prices:
 
-        for i in range(0 , prices.index(max(prices))):
-            
-            lu.append(max(prices) - prices[i])
-            
-        if len(lu) != 0: 
-            
-            maxi = max(lu)
-        
-        else :
-            
-            maxi = 0
+            max_price = max(prices)
 
-        for _ in sample_array:
+            prev_part = [
+                max(prices) - prices[index]
+                for index 
+                in range(0 , prices.index(max_price))
+            ]
 
-            if len(prices) == 0:
-                
-                return 0
-            
-            elif prices.index(max(prices)) < prices.index(min(prices)):
-                
-                prices.pop(prices.index(max(prices)))
-                count += 1
+            prices = prices.remove(max_price)
 
-            else:
-                
-                if max(prices) - min(prices) >= maxi:
-                    
-                    return max(prices) - min(prices)
+            return_prices.append(max(prev_part))
 
-                else :
-                    
-                    return maxi
+        return max(return_prices)
