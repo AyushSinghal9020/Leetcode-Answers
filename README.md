@@ -22,4 +22,6 @@ The method comment might not exist if the file only has one solution, then you m
 * If the table regarding your file exists add the contents in the table
 * If it does not then create one
 
+The table might not exist if the problem has only one solution regarding only 1 program
+
 It is really easy to create table in Markdown 
