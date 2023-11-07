@@ -1,7 +1,7 @@
 ||||
 |---|---|---|
 |Python|
-||<img src = 'https://awesomescreenshot.s3.amazonaws.com/image/4900480/44078317-39adfa8a49fd50c47692940e68b48e3f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20231107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231107T094511Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=35b88890d4020b008769f3a1807da62c61c69e15ac6a5b642cf99b6025e8527e' width = 400>|<img src = 'https://awesomescreenshot.s3.amazonaws.com/image/4900480/44078304-1c56c42ffc804137fb46b318a0666417.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20231107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231107T094446Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9c787c5f387ab1598054ecab0dc94071758c22db187cd95d238845d39023d5' width = 400>
+|Owner|<img src = 'https://awesomescreenshot.s3.amazonaws.com/image/4900480/44078317-39adfa8a49fd50c47692940e68b48e3f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20231107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231107T094511Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=35b88890d4020b008769f3a1807da62c61c69e15ac6a5b642cf99b6025e8527e' width = 400>|<img src = 'https://awesomescreenshot.s3.amazonaws.com/image/4900480/44078304-1c56c42ffc804137fb46b318a0666417.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20231107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231107T094446Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9c787c5f387ab1598054ecab0dc94071758c22db187cd95d238845d39023d5' width = 400>
 
 
 # Question 6
