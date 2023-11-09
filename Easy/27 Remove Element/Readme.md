@@ -1,3 +1,8 @@
+||||
+|---|---|---|
+|C++|
+||<img src = 'https://i.ibb.co/vP1Lzmw/Screenshot-2023-11-09-174138.png' width = 400>|<img src = 'https://i.ibb.co/XSs11G1/Screenshot-2023-11-09-174151.png' width = 400>
+
 # Question 27
 ****
 ## Remove Element
