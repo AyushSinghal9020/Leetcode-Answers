@@ -19,7 +19,6 @@ Given an input string `s` and a pattern `p`, implement regular expression matchi
 The matching should cover the **entire** input string (not partial).
 
 ### Examples
-<img src = 'https://assets.leetcode.com/uploads/2020/10/02/addtwonumber1.jpg' width = 400>
 
 ```
 Input: s = "aa", p = "a"
