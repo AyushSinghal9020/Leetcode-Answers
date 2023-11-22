@@ -23,4 +23,4 @@ The method comment might not exist if the file only has one solution, then you m
 
 The table might not exist if the problem has only one solution regarding only 1 program
 
-It is really easy to create table in Markdown 
+Examine [Readme Sample File](https://github.com/AyushSinghal9020/Leetcode-Answers/blob/main/Readme%20Sample.md) for Readme Template
